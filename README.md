@@ -40,7 +40,7 @@ This page utilizes applied accessibility to allow users to easily navigate throu
 Coming soon are pages on Sports and Higher Education. Both pages will provide more information on corresponding topics and break down the various teams and colleges and what they have to offer. 
 
 ### Questions/Comments/Contribution
-For questions, comments, or contribution to this project please contact sole developer Demi Parrilla at dparrilla243@gmail.com.
+For questions, comments, or contribution to this project please contact sole developer Demi Parrilla at demiparrilla802@gmail.com.
 
 
 
